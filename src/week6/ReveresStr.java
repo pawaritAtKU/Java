@@ -10,5 +10,4 @@ public class ReveresStr {
         }
         System.out.println("After reveres a String " + rev);
     }
-
 }

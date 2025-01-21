@@ -15,7 +15,6 @@ public class SwapNumber {
         temp = b;
         b = c;
         c = temp;
-
         System.out.println("After Swapping: " + a + " " + b + " " + c + " " + d);
     }
 }
