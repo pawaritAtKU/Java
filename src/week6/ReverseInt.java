@@ -12,6 +12,7 @@ public class ReverseInt {
             System.out.println("Reversed Number: " + reversed);
         }
     }
+
 }
 
 

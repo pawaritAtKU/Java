@@ -30,4 +30,5 @@ public class OddEvenNum {
         }
         scanner.close();
     }
+
 }
